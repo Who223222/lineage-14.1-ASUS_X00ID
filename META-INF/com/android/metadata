@@ -1,0 +1,5 @@
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Asus/lineage_X00I/X00I:7.1.2/NJH47F/ee48f1874c:userdebug/test-keys
+post-timestamp=1538588757
+pre-device=X00I
